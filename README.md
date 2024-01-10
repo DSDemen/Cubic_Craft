@@ -1,4 +1,4 @@
-# Minecraft
+# Cubic Craft
 Basic Minecraft in unity
   
   
